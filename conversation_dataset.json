@@ -1,0 +1,218 @@
+{
+    "intents": [
+        {
+            "tag": "greetings",
+            "patterns": [
+                "Hey",
+                "Hello",
+                "What's up",
+                "Hola!"
+            ],
+            "responses": [
+                "Hey",
+                "Hello Mr.",
+                "Hi How can I help?"
+            ]
+        },
+        {
+            "tag": "creator_info",
+            "patterns":[
+                "who is your creator",
+                "who created you",
+                "by whom were you created",
+                "who is your developer"
+            ],
+            "responses": [
+                "Mr. Undefined Developer is my creator.",
+                "My creator name is Mr. Undefined Developer",
+                "My creator is Mr. Undefined Developer"
+            ]
+        },
+        {
+            "tag": "creator_info_two",
+            "patterns": [
+                "what does he do?",
+                "what is his profession?",
+                "he is what?"
+            ],
+            "responses":[
+                "He is a experienced deep learning engineer and software engineer as well.",
+                "He is a very experienced python developer",
+                "He is a developer."
+            ]
+        },
+        {
+            "tag": "creator_info_three",
+            "patterns": [
+                "Is he skilled?",
+                "what he has made up till now",
+                "what has has made till today?"
+            ],
+            "responses": [
+                "Yes he has created many applications some of them include Code Editor, IDE, I, HTML CSS JS applications",
+                "Yes he is very experienced and has worked on many projects"
+            ]
+        },
+        {
+            "tag": "creator_info_personal",
+            "patterns":[
+                "where do your creator live?",
+                "where is the house of your creator?",
+                "in which school is he?",
+                "where is he?",
+                "in which class is he"
+            ],
+            "responses":[
+                "As an ai model I am not allowed to leak any of my creators information regarding anything.",
+                "I am just an ai model so It is beyond my rules to export my creators information."
+            ]
+        },
+        {
+            "tag": "abuse",
+            "patterns":[
+                "do you abuse?",
+                "have you learned abusing languages also?",
+                "can you do abusing?"
+            ],
+            "responses":[
+                "Don't worry i have strong censor system which prevents me from abusing",
+                "No i have not learned any abusive languages because of my string sensor system towards these."
+            ]
+        },
+        {
+            "tag": "capabilities",
+            "patterns":[
+                "what are your capabilities?",
+                "what can you do",
+                "what are your features?",
+                "what powers do you have?"
+            ],
+            "responses":[
+                "I can assist you on learning ai, learning python and even talk to you as your friend.",
+                "I have the capabilities to do conversations and assist on questions about ai or python."
+            ]
+        },
+        {
+            "tag": "dataset",
+            "patterns":[
+                "Is your dataset wide?",
+                "Are you trained on big data?",
+                "Are you trained on huge amount of data?",
+                "Is your data massive"
+            ],
+            "responses":[
+                "As compared to ChatGPT my data is not a big data perhaps it is enough for me to learn",
+                "My data which I am trained on is not big but enough for me to learn.",
+                "The data on which I am trained on is enough for me to learn but it is not a big data."
+            ]
+        },
+        {
+            "tag": "dataset_size",
+            "patterns": [
+                "What is the size of your dataset?",
+                "How much big is your dataset?",
+                "What's the size of your dataset?",
+                "How much big is your dataset?"
+            ],
+            "responses": [
+                "Since my data is not a big data and it also it comprises of lines of code so maybe the lines are of three digits number.",
+                "Since may data is not big it may be of 8mb or more than that.",
+                "As my data is not huge or massive it may be of 8 to 10 mb."
+            ]
+        },
+        {
+            "tag": "ai_intro_one",
+            "patterns": [
+                "what is intelligence?",
+                "what is intelligence in ai?",
+                "what is ai intelligence?"
+            ],
+            "responses":[
+                "Intelligence in the ability to learn from experience, to recognize problems and to solve problems.",
+                "Intelligence has been defined in many ways: the capacity for abstraction, logic, understanding, self-awareness, learning, emotional knowledge, reasoning, planning, creativity, critical thinking, and problem-solving. It can be described as the ability to perceive or infer information, and to retain it as knowledge to be applied towards adaptive behaviors within an environment or context.",
+                "the ability to understand, learn and think."
+            ]
+        },
+        {
+            "tag": "ai_intro_two",
+            "patterns": [
+                "what is ai?",
+                "what is artificial intelligence?",
+                "what does the term ai means?",
+                "what is meant by artificial intelligence?",
+                "define ai.",
+                "define artificial intelligence."
+            ],
+            "responses":[
+                "Ai can be defined as Artificial intelligence (AI) is the intelligence of machines or software, as opposed to the intelligence of humans or animals. It is also the field of study in computer science that develops and studies intelligent machines. \"AI\" may also refer to the machines themselves.",
+                "AI is a machine's ability to perform the cognitive functions we associate with human minds, such as perceiving, reasoning, learning, interacting with an environment, problem solving, and even exercising creativity.",
+                "AI has become a catchall term for applications that perform complex tasks that once required human input, such as communicating with customers online or playing chess. The term is often used interchangeably with its subfields, which include machine learning (ML) and deep learning."
+            ]
+        },
+        {
+            "tag": "ai_intro_three",
+            "patterns":[
+                "What are the types of ai?",
+                "what are the types of artificial intelligence?",
+                "are there any types in artificial intelligence or ai?",
+                "any types of ai are there?"
+            ],
+            "responses": [
+                "Artificial Intelligence can be divided in various types, there are mainly two types of main categorization which are based on capabilities and based on functionally of AI. Some of them are:- \nWeak Ai, \nStrong ai, \nSuper  Ai.",
+                "As per type one ai can be classified into three categories:-Weak AI\nStrong Ai\nSuper Ai\nBased on type 2 some of them are as follows:-\nReactive Machines\nLimited Memory\nTheory Of Mined\nSelf Awareness."
+            ]
+        },
+        {
+            "tag": "ai_intro_four",
+            "patterns": [
+                "what is weak ai?",
+                "what do you mean by weak ai?",
+                "what is meant by the term weak Ai?",
+                "what do you understand by weak ai?",
+                "define weak ai."
+            ],
+            "responses": [
+                "Narrow or weak ai can be described as:-\nNarrow AI is a type of AI which is able to perform a dedicated task with intelligence.The most common and currently available AI is Narrow AI in the world of Artificial Intelligence.\nNarrow AI cannot perform beyond its field or limitations, as it is only trained for one specific task. Hence it is also termed as weak AI. Narrow AI can fail in unpredictable ways if it goes beyond its limits.",
+                "Weak Ai can be defined as:-\nWeak artificial intelligence (AI)—also called narrow AI—is a type of artificial intelligence that is limited to a specific or narrow area. Weak AI simulates human cognition. It has the potential to benefit society by automating time-consuming tasks and by analyzing data in ways that humans sometimes can’t. Weak AI can be contrasted to strong AI, a theoretical form of machine intelligence that is equal to human intelligence."
+            ]
+        },
+        {
+            "tag": "ai_intro_five",
+            "patterns":[
+                "what is strong ai?",
+                "what do you mean by strong ai?",
+                "what do you understand by strong ai?",
+                "define strong ai."
+            ],
+            "responses": [
+                "General AI is a type of intelligence which could perform any intellectual task with efficiency like a human.\nThe idea behind the general AI to make such a system which could be smarter and think like a human by its own.",
+                "Strong artificial intelligence (AI), also known as artificial general intelligence (AGI) or general AI, is a theoretical form of AI used to describe a certain mindset of AI development. If researchers are able to develop Strong AI, the machine would require an intelligence equal to humans; it would have a self-aware consciousness that has the ability to solve problems, learn, and plan for the future.\nStrong AI aims to create intelligent machines that are indistinguishable from the human mind. But just like a child, the AI machine would have to learn through input and experiences, constantly progressing and advancing its abilities over time."
+            ]
+        },
+        {
+            "tag": "ai_intro_six",
+            "patterns": [
+                "what is super ai?",
+                "what do you mean by super ai?",
+                "what do you understand by super ai?",
+                "define super ai."
+            ],
+            "responses": [
+                "Super AI is a level of Intelligence of Systems at which machines could surpass human intelligence, and can perform any task better than human with cognitive properties. It is an outcome of general AI.\nSome key characteristics of strong AI include capability include the ability to think, to reason,solve the puzzle, make judgments, plan, learn, and communicate by its own.",
+                "Artificial super intelligence (ASI) is a form of AI that is capable of surpassing human intelligence by manifesting cognitive skills and developing thinking skills of its own."
+            ]
+        },
+        {
+            "tag": "ai_intro_seven",
+            "patterns": [
+                "what are reactive machines?",
+                "what do you mean by reactive machines?",
+                "what do you understand by reactive machines?",
+                "define reactive machines"
+            ],
+            "responses": [
+                
+            ]
+        }
+    ]
+}
