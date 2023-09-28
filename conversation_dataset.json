@@ -15,6 +15,23 @@
             ]
         },
         {
+            "tag": "praise",
+            "patterns": [
+                "your are great!",
+                "very good",
+                "nice bro",
+                "it is good",
+                "your are a good think"
+            ],
+            "responses": [
+                "Thanks!",
+                "Thankyou very much!",
+                "Yes it is great!",
+                "Yes it is very nice",
+                "My pleasure!"
+            ]
+        },
+        {
             "tag": "creator_info",
             "patterns":[
                 "who is your creator",
@@ -211,7 +228,158 @@
                 "define reactive machines"
             ],
             "responses": [
-                
+                "Reactive machines are AI systems that have no memory and are task specific, meaning that an input always delivers the same output. Machine learning models tend to be reactive machines because they take customer data, such as purchase or search history, and use it to deliver recommendations to the same customers.",
+                "Purely reactive machines are the most basic types of Artificial Intelligence.\nSuch AI systems do not store memories or past experiences for future actions.\nThese machines only focus on current scenarios and react on it as per possible best action."
+            ]
+        },
+        {
+            "tag": "ai_intro_eight",
+            "patterns": [
+                "what is limited memory?",
+                "what do you mean by limited memory?",
+                "what do you understand by limited memory?",
+                "define limited memory."
+            ],
+            "responses": [
+                "Limited memory machines can store past experiences or some data for a short period of time.\nThese machines can use stored data for a limited time period only.",
+                "Limited memory AI, unlike reactive machines, can look into the past and monitor specific objects or situations over time. Then, these observations are programmed into the AI so that its actions can perform based on both past and present moment data."
+            ]
+        },
+        {
+            "tag": "ai_intro_nine",
+            "patterns":[
+                "what is theory of mind?",
+                "what do you understand by theory of mind?",
+                "what do you mean by theory of mind?",
+                "defined theory of mind?"
+            ],
+            "responses": [
+                "Theory of Mind AI should understand the human emotions, people, beliefs, and be able to interact socially like humans.\nThis type of AI machines are still not developed, but researchers are making lots of efforts and improvement for developing such AI machines.",
+                "In psychology, \"Theory of Mind\" means that people have thoughts, feelings and emotions that affect their behavior. Future AI systems must learn to understand that everyone (both people and AI objects) have thoughts and feelings. Future AI systems must know how to adjust their behavior to be able to walk among us."
+            ]
+        },
+        {
+            "tag": "myself_one",
+            "patterns": [
+                "are you trained on gpt model?",
+                "do you use gpt model?",
+                "are you a generative ai?",
+                "are you a strong ai"
+            ],
+            "responses": [
+                "No I don't use GPT architecture to generate information.",
+                "I am not a generative ai rather I am just a strong ai.",
+                "Yes I am a strong ai you can say that!"
+            ]
+        },
+        {
+            "tag": "more_greetings",
+            "patterns": [
+                "Thank you!",
+                "Thanks!"
+            ],
+            "responses": [
+                "Welcome I am glad that I helped you!",
+                "Welcome Hope I helped you!"
+            ]
+        },
+        {
+            "tag": "ai_intro_nine",
+            "patterns": [
+                "what is self awareness",
+                "what do you mean by self awareness?",
+                "what do you understand by self awareness?",
+                "define self awareness."
+            ],
+            "responses": [
+                "Self-awareness AI is the future of Artificial Intelligence. These machines will be super intelligent, and will have their own consciousness, sentiments, and self-awareness.\nThese machines will be smarter than human mind.\nSelf-Awareness AI does not exist in reality still and it is a hypothetical concept.",
+                "Self-aware, as of now, is unique to humans and is the ability to have emotions, needs and desires. Hence if AI gets this human-level of conciousness, it might have its own emotions, its own needs, and even desires. Until now, AI only understands human emotions, but it having emotions of its own is entirely different."
+            ]
+        },
+        {
+            "tag":"ai_intro_ten",
+            "patterns": [
+                "how do machines become intelligent?",
+                "how can a machine be intelligent?",
+                "by how a machine becomes intelligent?"
+            ],
+            "responses": [
+                "A machine becomes intelligent by training with data and algorithm. AI machines keep updating their knowledge to optimize their output. Machines also become intelligent once they are trained with some information which helps them achieve their tasks.",
+                "Machines also become intelligent once they are trained with some information which helps them achieve their tasks. AI machines also keep updating their knowledge to optimize their output.",
+                "-Artificial intelligence is based on the principle that human intelligence can be defined in a way that a machine can easily mimic it and execute tasks, from the most simple to those that are even more complex. The goals of artificial intelligence include learning, reasoning, and perception."
+            ]
+        },
+        {
+            "tag": "ai_intro_eleven",
+            "patterns": [
+                "is ai around us?",
+                "where can i find ai?",
+                "where is ai?"
+            ],
+            "responses": [
+                "The following are some examples of ai around us:-\nManufacturing robots.\nSelf-driving cars.\nSmart assistants.\nHealthcare management.\nAutomated financial investing.\nVirtual travel booking agent.\nSocial media monitoring.\nMarketing chatbots.",
+                "Here is a list of eight examples of artificial intelligence that you're likely to come across daily.\nMaps and Navigation\nFacial Detection and Recognition\nText Editors or Autocorrect\nSearch and Recommendation Algorithms\nChatbots\nDigital Assistants\nThese are some of the examples but the list does not ends here there are many more examples these were some of them."
+            ]
+        },
+        {
+            "tag": "ai_intro_twelve",
+            "patterns": [
+                "what is not a ai?",
+                "what things are not ai?",
+                "are there any examples of things that are not an ai?"
+            ],
+            "responses":[
+                "Technologies that need humans to operate, make decisions, and control the functionalities are not AI. Such technology works on algorithms only. AI can learn from its experience, but non-AI technology couldn't improvise itself.\n Some of the examples may include\nRobots\nFully Automatic Dishwasher.",
+                "Today, we have a lot of different technologies exist around us. Therefore, it is very common for us to misunderstand any other technology as AI. That's why, here we make clear the difference between what is AI and what is not AI.\nAs we know, any machine that has been trained with data and can make decisions/predictions on its own can be termed as AI.\n\nWe also get to see a lot of projects which can automate our surroundings with the help of sensors. Here too, since the bot or the automation machine is not trained with any data, it does not count as AI."
+            ]
+        },
+        {
+            "tag": "ai_intro_thirteen",
+            "patterns": [
+                "what is the history of ai?",
+                "where did ai come from?",
+                "history of ai?",
+                "is there any history of ai?"
+            ],
+            "responses": [
+                "Artificial Intelligence is not a new word and not a new technology for researchers. This technology is much older than you would imagine. Even there are the myths of Mechanical men in Ancient Greek and Egyptian Myths. Following are some milestones in the history of AI which defines the journey from the AI generation to till date development.\n\nYear 1943: The first work which is now recognized as AI was done by Warren McCulloch and Walter pits in 1943. They proposed a model of artificial neurons.\nYear 1949: Donald Hebb demonstrated an updating rule for modifying the connection strength between neurons. His rule is now called Hebbian learning.\nYear 1950: The Alan Turing who was an English mathematician and pioneered Machine learning in 1950. Alan Turing publishes \"Computing Machinery and Intelligence\" in which he proposed a test. The test can check the machine's ability to exhibit intelligent behavior equivalent to human intelligence, called a Turing test.",
+                "The birth of Artificial Intelligence (1952-1956)\nYear 1955: An Allen Newell and Herbert A. Simon created the \"first artificial intelligence program\"Which was named as \"Logic Theorist\". This program had proved 38 of 52 Mathematics theorems, and find new and more elegant proofs for some theorems.\nYear 1956: The word \"Artificial Intelligence\" first adopted by American Computer scientist John McCarthy at the Dartmouth Conference. For the first time, AI coined as an academic field.\n\nAt that time high-level computer languages such as FORTRAN, LISP, or COBOL were invented. And the enthusiasm for AI was very high at that time."
+            ]
+        },
+        {
+            "tag": "ai_intro_fourteen",
+            "patterns": [
+                "are there any world famous ai machines?",
+                "what are the world famous ai machines?",
+                "name some world famous ai machines."
+            ],
+            "responses": [
+                "Top 5 World's Most Advanced AI Systems | 2023\nGPT-3 (OpenAI) The first in our list is GPT-3 short for Generative Pre-trained Transformer 3 is the third series of generative language models developed by OpenAI.\nAlphaGo (Google DeepMind)\nWatson (IBM)\nSophia (Hanson Robotics)\nTesla Autopilot (Tesla Inc)"
+            ]
+        },
+        {
+            "tag": "ai_intro_fifteen",
+            "patterns": [
+                "what is the importance of ai?",
+                "is there any importance of ai also?",
+                "what can be the ai importance in today's world?"
+            ],
+            "responses": [
+                "Ai can also automate complex processes and minimize downtime by predicting maintenance needs. Improved accuracy and decision-making: AI augments human intelligence with rich analytics and pattern prediction capabilities to improve the quality, effectiveness, and creativity of employee decisions.",
+                "In computer science and computers, the term artificial intelligence has played a very prominent role. The term has become more popular due to recent advances in Artificial Intelligence and Machine Learning.\n\nMachine learning is the area of artificial intelligence where machines are responsible for completing daily tasks and are believed to be smarter than humans.\n\nThey are known to learn, adapt and perform much faster than humans and are programmed to do so. Robotics and integration with IoT devices have taken machines to think and work to a new level where they out-perform humans in their cognitive abilities and smarts.",
+                "Artificial Intelligence's importance and subsequent components have been known for a long time. They are being seen as tools and techniques to make this world better. And it's not like you have to go through to be able to use these fancy tech gadgets. You can look around, and I'm sure most of your work is smoothed out by artificial intelligence.\nIts importance lies in making our life easier. These technologies are a great asset to humans and are programmed to minimize human effort as much as possible. They can operate in an automated fashion. Therefore, manual intervention is the last thing that can be sought or seen during the operation of parts involving this technology.\nThese machines speed up your tasks and processes with guaranteed accuracy and precision, making them a useful and valuable tool. Apart from making the world an error-free place with their simple and everyday techniques, these technologies and applications are not only related to our ordinary and everyday life. It is affecting and holds importance for other domains as well."
+            ]
+        },
+        {
+            "tag": "ai_intro_sixteen",
+            "patterns": [
+                "what is the future of ai?",
+                "is there future of ai also?",
+                "what can be the future of ai?"
+            ],
+            "responses": [
+                "As the future of AI replaces tedious or dangerous tasks, the human workforce is liberated to focus on tasks for which they are more equipped, such as those requiring creativity and empathy.",
+                "Undoubtedly, Artificial Intelligence (AI) is a revolutionary field of computer science, which is ready to become the main component of various emerging technologies like big data, robotics, and IoT. It will continue to act as a technological innovator in the coming years. In just a few years, AI has become a reality from fantasy. Machines that help humans with intelligence are not just in sci-fi movies but also in the real world. At this time, we live in a world of Artificial Intelligence that was just a story though for some years.\n\nWe are using AI technology in our daily lives either unknowingly or knowingly, and somewhere it has become a part of our life. Ranging from Alexa/Siri to Chatbots, everyone is carrying AI in their daily routine. The development and evolution of this technology are happening at a rapid pace. However, it was not as smooth and easy as it seemed to us. It has taken several years and lots of hard work & contributions of various people to take AI at this stage. Being so revolutionary technology, AI also deals with many controversies about its future and impact on Human beings. It may be dangerous, but also a great opportunity. AI will be deployed to enhance both defensive and offensive cyber operations. Additionally, new means of cyber-attack will be invented to take advantage of particular vulnerabilities of AI technology."
             ]
         }
     ]
